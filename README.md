@@ -76,5 +76,5 @@ Este projeto demonstra como a análise de sentimentos pode ser aplicada para ext
 
 ## 📩 Contato
 📧 Email: gracebatista152@gmail.com
-🔗 LinkedIn: [seu-linkedin](https://www.linkedin.com/in/grace-garces-103174210/)
+🔗 LinkedIn: [Linkedin](https://www.linkedin.com/in/grace-garces-103174210/)
 
