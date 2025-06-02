@@ -189,4 +189,4 @@ Certifique-se de que os seguintes arquivos CSV estão no mesmo diretório que o 
 
 Execute o script Python pelo terminal:
 ```bash
-python seu_script.py
+python AnaliseSentimentos.py
