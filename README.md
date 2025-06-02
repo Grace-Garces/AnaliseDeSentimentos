@@ -190,3 +190,6 @@ Certifique-se de que os seguintes arquivos CSV estão no mesmo diretório que o 
 Execute o script Python pelo terminal:
 ```bash
 python AnaliseSentimentos.py
+
+![image](https://github.com/user-attachments/assets/4fea4193-ca42-4a67-b0cd-0b49f133cafd)
+
